@@ -33,11 +33,11 @@ div {
     padding: 2.5rem;
 }
 
-.header__content {
+.headerContent {
     margin-top: 2rem;
 }
 
-.header__content > p {
+.headerContent > p {
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
 }
